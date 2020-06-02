@@ -4,58 +4,30 @@ A83280 - José Alexandre Ribeiro Ferreira
 
 Mapas da Austrália
 
-A nível local:
+# Mapas do Mundo
 
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Mapas/aus.png)
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Mapas/aus_vermelho.png)
+Os mapas criados são relativos ao número de casos confirmados por país e ao número de fatalidades em cada um.
+Também é importante referir que os dados nesta imagem se encontram mais atualizados e por isso existir um maior número de casos comparado ao usado para fazer os mapas da Austrália.
 
-A nível das regiões:
+A nível do número total de casos confirmados:
 
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Mapas/aus_regions.png)
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Mapas/aus_regions_vermelho.png)
+![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Mundo/Imagens/Mapas/world_vermelho_total.png)
 
-A nível do país por um todo:
+A nível do número total de fatalidades:
 
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Mapas/aus_country.png)
+![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Mundo/Imagens/Mapas/world_preto_total.png)
 
-Estatísticas da Austrália
+# Estatísticas do Mundo
 
-A nível local:
 
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Top10.png)
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Bar10.png)
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Pie10.png)
+![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Mundo/Imagens/Estat%C3%ADsticas/World_Cases_Bar22.png)
 
-A nível das regiões:
+O gráfico de barras verticais possui os países ordenados pelo número de casos confirmados, barra a vermelho. A barra a preto indica o número de fatalidades que cada um destes países apresnta. Também é de se destacar que a Austrália não se encontra entre os 22 países com mais casos, representados no gráfico.
 
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Region_Points.png)
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Region_Bar.png)
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Region_Pie.png)
+![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Mundo/Imagens/Estat%C3%ADsticas/World_Cases_Pie10.png)
 
-A nível do país por um todo:
+A imgem tem um gráfico circular em que estão presentes os 22 países com mais casos e os restantes estão na categoria Outras. Aqui é possível destacar a alta percentagem dos Estados Unidos da América. 
 
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Country.png)
+![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Mundo/Imagens/Estat%C3%ADsticas/World_Cases_Barh22.png)
 
-Time Series - A nível das regiões:
-
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Region_Evolution_Confirmed.png)
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Region_Evolution_Recovered.png)
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Region_Evolution_Deaths.png)
-
-Time Series - A nível do país por um todo:
-
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Australia_Evolution.png)
-
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Australia_Evolution_Confirmed.png)
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Australia_Evolution_Recovered.png)
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Australia_Evolution_Deaths.png)
-
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Australia_Evolution_Confirmed_Forecasting.png)
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Australia_Evolution_Deaths_Forecasting.png)
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Australia_Evolution_Recovered_Forecasting.png)
-
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Australia_Evolution_Confirmed_Forecasting_Model.png)
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Australia_Evolution_Deaths_Forecasting_Model.png)
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Australia_Evolution_Recovered_Forecasting_Model.png)
-
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Australia_New.png)
+Esta gráfico de barras horizontais tem o número de casos confirmados para cada unm dos países.
