@@ -30,4 +30,4 @@ A imgem tem um gráfico circular em que estão presentes os 22 países com mais 
 
 ![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Mundo/Imagens/Estat%C3%ADsticas/World_Cases_Barh22.png)
 
-Esta gráfico de barras horizontais tem o número de casos confirmados para cada unm dos países.
+Esta gráfico de barras horizontais tem o número de casos confirmados para cada um dos países.
