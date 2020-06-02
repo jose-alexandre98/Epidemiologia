@@ -108,7 +108,7 @@ A imgem tem um gráfico circular em que estão presentes os 22 países com mais 
 
 ![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Mundo/Imagens/Estat%C3%ADsticas/World_Cases_Barh22.png)
 
-Esta gráfico de barras horizontais tem o número de casos confirmados para cada unm dos países.
+Esta gráfico de barras horizontais tem o número de casos confirmados para cada um dos países.
 
 # SQL
 
@@ -126,5 +126,10 @@ Nesta pasta foi utilizado o QGis para criar um geopackage com um mapa de Portuga
 
 
 ![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/QGis/Imagens/portugal_vermelho_distritos.png)
+
+
+# Webgrafia
+
+O dataset Australian_Cases_by_LGA.csv encontra-se disponível em https://covid19-esriau.hub.arcgis.com/datasets/australian-cases-by-lga/data?geometry=65.655%2C-40.480%2C-160.840%2C-13.453&showData=true
 
 
