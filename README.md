@@ -16,15 +16,16 @@ A nível das regiões e com graduação de tons de vermelho:
 
 # Estatísticas da Austrália
 
+Foram criados gráficos de forma a expor os dados de forma mais facilmente percetível.
+
+
 A nível local:
 
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Top10.png)
 ![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Bar10.png)
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Pie10.png)
+![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Pie22.png)
 
 A nível das regiões:
 
-![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Region_Points.png)
 ![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Region_Bar.png)
 ![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Region_Pie.png)
 
