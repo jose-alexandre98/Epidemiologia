@@ -60,21 +60,38 @@ O número de fatalidades ao longo do tempo foi sempre muito próximo de 0 devido
 
 ![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Australia_Evolution_Confirmed.png)
 
-Neste gráfico foram adicionadas as curvas relativas à média móvel(moving average) e o desvio padrão(rolling standard deviation) à curva da evolução do número de casos ao longo do tempo. Também foram criados gráficos para os recuperados e as fatalidades.
+Neste gráfico foram adicionadas as curvas relativas à média móvel(moving average) e o desvio padrão(rolling standard deviation) à curva da evolução do número de casos ao longo do tempo. 
+Também foram criados gráficos para os recuperados e as fatalidades.
 
 ![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Australia_Evolution_Confirmed_Forecasting.png)
 
+A imagem possui um gráfico ao qual foram adicionadas as curvas de forecasting de simples alisamento exponencial para alfa igual a 0,2, a 0,6 e ao valor que o modelo otimiza automaticamente. É de destacar que o alfa otimizado foi o que sempre se manteve mais próximo do valor real e o menor alfa teve as previsões mais afastadas desse valor.
+Foram obtidas as previsões para os 10 dias seguintes, as quais evidenciam que o número de novos casos se está a estabilizar.
+Também foram criados gráficos para os recuperados e as fatalidades.
+
 ![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Australia_Evolution_Confirmed_Forecasting_Model.png)
+
+Nesta imagem encontra-se o gráfico em que se adicionaram as curvas de forecasting de tendência linear e de tendência aditiva de amortecimento de Holt's. Estas curvas também realizam a previsão dos 10 dias seguintes. Os valores obtidos foram bastante próximos e as previsões são de uma continuação do aumento do número de casos.
+Também foram criados gráficos para os recuperados e as fatalidades.
 
 ![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Australia_New.png)
 
+Este gráfico permite ver os novos casos confirmados, os recuperados e as fatalidades em cada dia. Ele evidencia que o pico de novos casos está ultrapassado, sendo que o número se começa a estabilizar.
 
 
+# Mapas do Mundo
 
+Os mapas criados são relativos ao número de casos confirmados por país e ao número de fatalidades em cada um.
 
+A nível do número total de casos confirmados:
 
+![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Mundo/Imagens/Mapas/world_vermelho_total.png)
 
+A nível do número total de fatalidades:
 
+![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Mundo/Imagens/Mapas/world_preto_total.png)
+
+# Estatísticas do Mundo
 
 
 
