@@ -14,6 +14,7 @@ A nível local:
 
 A nível das regiões:
 
+![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Mapas/aus_regions.png)
 ![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Mapas/aus_regions_vermelho.png)
 
 Tendo em conta os dados da imagem é de destacar três regiões por apresentaram casos, enquanto as restantes não os registaram.
@@ -30,6 +31,7 @@ No total, a Austrália tinha registado um total de 4852 casos segundo o dataset 
 
 A nível local:
 
+![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Top10.png)
 ![Image description](https://github.com/jose-alexandre98/Epidemiologia/blob/master/Austr%C3%A1lia/Imagens/Estat%C3%ADsticas/Australian_Cases_Bar10.png)
 
 Nesta imagem é de destacar que Waverley é a localidade mais afetado pelo COVID-19 visto possuir o maior número de casos. A esta segue-se Sydney, que é uma localidade geograficamente próxima à primeira.
