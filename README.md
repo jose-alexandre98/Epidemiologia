@@ -130,6 +130,17 @@ Nesta pasta foi utilizado o QGis para criar um geopackage com um mapa de Portuga
 
 # Webgrafia
 
-O dataset Australian_Cases_by_LGA.csv encontra-se disponível em https://covid19-esriau.hub.arcgis.com/datasets/australian-cases-by-lga/data?geometry=65.655%2C-40.480%2C-160.840%2C-13.453&showData=true
+O dataset Australian_Cases_by_LGA.csv encontra-se disponível em: https://covid19-esriau.hub.arcgis.com/datasets/australian-cases-by-lga/data?geometry=65.655%2C-40.480%2C-160.840%2C-13.453&showData=true
 
+Os shapefiles da Austrália encontram-se no AUS_adm.zip, que está disponível em: https://data.biogeo.ucdavis.edu/data/diva/adm/AUS_adm.zip
+
+Os shapefile do mapa mundo encontram-se em: https://www.naturalearthdata.com/downloads/10m-cultural-vectors/
+
+Os datasets sobre o time_series foram importados pelos seguintes links:
+
+https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
+
+https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv
+
+https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
 
