@@ -2,8 +2,6 @@
 
 A83280 - José Alexandre Ribeiro Ferreira
 
-Mapas da Austrália
-
 # Mapas do Mundo
 
 Os mapas criados são relativos ao número de casos confirmados por país e ao número de fatalidades em cada um.
