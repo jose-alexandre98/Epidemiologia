@@ -136,6 +136,8 @@ Os shapefiles da Austrália encontram-se no AUS_adm.zip, que está disponível e
 
 Os shapefile do mapa mundo encontram-se em: https://www.naturalearthdata.com/downloads/10m-cultural-vectors/
 
+O dataset 20200512.csv está disponível no link: https://raw.githubusercontent.com/jgrocha/covid-pt/master/European%20Centre%20for%20Disease%20Prevention%20and%20Control/20200512.csv
+
 Os datasets sobre o time_series foram importados pelos seguintes links:
 
 https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
